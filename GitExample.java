@@ -5,6 +5,7 @@ public class GitExample {
 		System.out.println("Hello world!");
 		System.out.println("New second string for a test.");
 		System.out.println("Second string for a test.");
+		int a = 0;
 		int someInteger = 0; // debug line example.
 	}
 
