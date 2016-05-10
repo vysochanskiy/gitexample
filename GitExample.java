@@ -6,6 +6,7 @@ public class GitExample {
 		System.out.println("New second string for a test.");
 		System.out.println("Second string for a test.");
 		int someInteger = 0; // debug line example.
+		int integerToDelete = 0; // integer to be deleted by a Revert action.
 	}
 
 }
