@@ -9,6 +9,7 @@ public class GitExample {
 		int b = 0;
 		int c = 0;
 		int someInteger = 0; // debug line example.
+		String str = "Made by Maxim";
 	}
 
 }
